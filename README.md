@@ -1,0 +1,1 @@
+O arquivo topbar.php é puxado pelo include para as outras páginas.
